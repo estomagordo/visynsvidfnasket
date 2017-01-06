@@ -34,3 +34,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+
+# Virtual environment:
+env/
+
