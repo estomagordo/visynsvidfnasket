@@ -3,7 +3,7 @@
         <title>Vi syns vid fnasket!</title>
         <link>https://www.visynsvidfnasket.se</link>
         <image>
-            <url>http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg</url>
+            <url>http://visynsvidfnasket.azurewebsites.net/static/images/title2.jpg</url>
             <title>Vi syns vid fnasket!</title>
             <link>https://www.visynsvidfnasket.se</link>
         </image>
@@ -27,7 +27,7 @@
         <itunes:keywords>
             gävle,humor,anekdoter,öl,spel,livet
         </itunes:keywords>
-        <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+        <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title2.jpg"/>
         <itunes:category text="Society &amp; Culture"/>
         <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
         <item>
