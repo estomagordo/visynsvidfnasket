@@ -11,8 +11,7 @@
             En podcast med godtyckliga referenser till Gävle.
         </description>
         <language>sv-SE</language>
-        <copyright>Joakim Frödin, Christofer Ohlsson 2017</copyright>
-        <atom:link href="http://www.visynsvidfnasket.se/static/xml/podcast.xml" rel="self" type="application/rss+xml"/>
+        <copyright>Joakim Frödin, Christofer Ohlsson 2017</copyright>        
         <lastBuildDate>2017-01-06T14:54:17+00:00</lastBuildDate>
         <itunes:author>Joakim Frödin, Christofer Ohlsson</itunes:author>
         <itunes:summary>
