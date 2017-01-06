@@ -12,7 +12,7 @@
         </description>
         <language>sv-SE</language>
         <copyright>Joakim Frödin, Christofer Ohlsson 2017</copyright>        
-        <lastBuildDate>2017-01-06T14:54:17+00:00</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2017 14:54:17 +0000</lastBuildDate>
         <itunes:author>Joakim Frödin, Christofer Ohlsson</itunes:author>
         <itunes:summary>
             En podcast med godtyckliga referenser till Gävle.
@@ -28,13 +28,13 @@
         </itunes:keywords>
         <itunes:image href="http://www.visynsvidfnasket.se/static/images/title.jpg"/>
         <itunes:category text="Society & Culture"/>
-        <pubDate>2017-01-06T14:54:17+00:00</pubDate>
+        <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
         <item>
             <title>En dräpare i Andersberg</title>
             <link>
                 http://www.visynsvidfnasket.se/static/episodes/1.mp3
             </link>
-            <pubDate>2017-01-06T14:54:17+00:00</pubDate>
+            <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
             <description>
                 I detta podcastens första avsnitt presenterar Jocke och Christofer sig, sätter tillvaron i Gävles ljus,
                 samt hinner säga några ord om valda stadsdelar i Gävle och eventuellt spåra ur i sitt drömmande om svunna tider.
@@ -43,7 +43,7 @@
             <guid>
                 1.mp3
             </guid>
-            <itunes:duration>1:28:51</itunes:duration>
+            <itunes:duration>88:51</itunes:duration>
             <itunes:summary>
                 I detta podcastens första avsnitt presenterar Jocke och Christofer sig, sätter tillvaron i Gävles ljus,
                 samt hinner säga några ord om valda stadsdelar i Gävle och eventuellt spåra ur i sitt drömmande om svunna tider.
