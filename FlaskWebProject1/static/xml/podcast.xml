@@ -1,4 +1,4 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Vi syns vid fnasket!</title>
         <link>https://www.visynsvidfnasket.se</link>
@@ -13,6 +13,7 @@
         <language>sv-SE</language>
         <copyright>Joakim Frödin, Christofer Ohlsson 2017</copyright>        
         <lastBuildDate>Fri, 06 Jan 2017 14:54:17 +0000</lastBuildDate>
+        <atom:link href="http://visynsvidfnasket.azurewebsites.net/static/xml/podcast.xml" rel="self" type="application/rss+xml" />
         <itunes:author>Joakim Frödin, Christofer Ohlsson</itunes:author>
         <itunes:summary>
             En podcast med godtyckliga referenser till Gävle.
@@ -27,7 +28,7 @@
             gävle,humor,anekdoter,öl,spel,livet
         </itunes:keywords>
         <itunes:image href="http://www.visynsvidfnasket.se/static/images/title.jpg"/>
-        <itunes:category text="Swedish"/>
+        <itunes:category text="Personal Journals"/>
         <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
         <item>
             <title>En dräpare i Andersberg</title>
@@ -41,7 +42,7 @@
             </description>
             <enclosure url="http://www.visynsvidfnasket.se/static/episodes/1.mp3" length="56348754" type="audio/mpeg"/>
             <guid>
-                1.mp3
+                http://www.visynsvidfnasket.se/static/episodes/1.mp3
             </guid>
             <itunes:duration>88:51</itunes:duration>
             <itunes:summary>
