@@ -3,7 +3,7 @@
         <title>Vi syns vid fnasket!</title>
         <link>https://www.visynsvidfnasket.se</link>
         <image>
-            <url>http://www.visynsvidfnasket.se/static/images/title.jpg</url>
+            <url>http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg</url>
             <title>Vi syns vid fnasket!</title>
             <link>https://www.visynsvidfnasket.se</link>
         </image>
@@ -27,29 +27,29 @@
         <itunes:keywords>
             gävle,humor,anekdoter,öl,spel,livet
         </itunes:keywords>
-        <itunes:image href="http://www.visynsvidfnasket.se/static/images/title.jpg"/>
+        <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
         <itunes:category text="Society &amp; Culture"/>
         <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
         <item>
             <title>En dräpare i Andersberg</title>
             <link>
-                http://www.visynsvidfnasket.se/static/episodes/1.mp3
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/1.mp3
             </link>
             <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
             <description>
                 I detta podcastens första avsnitt presenterar Jocke och Christofer sig, sätter tillvaron i Gävles ljus,
                 samt hinner säga några ord om valda stadsdelar i Gävle och eventuellt spåra ur i sitt drömmande om svunna tider.
             </description>
-            <enclosure url="http://www.visynsvidfnasket.se/static/episodes/1.mp3" length="56348754" type="audio/mpeg"/>
+            <enclosure url="http://visynsvidfnasket.azurewebsites.net/static/episodes/1.mp3" length="56348754" type="audio/mpeg"/>
             <guid>
-                http://www.visynsvidfnasket.se/static/episodes/1.mp3
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/1.mp3
             </guid>
             <itunes:duration>88:51</itunes:duration>
             <itunes:summary>
                 I detta podcastens första avsnitt presenterar Jocke och Christofer sig, sätter tillvaron i Gävles ljus,
                 samt hinner säga några ord om valda stadsdelar i Gävle och eventuellt spåra ur i sitt drömmande om svunna tider.
             </itunes:summary>
-            <itunes:image href="http://www.visynsvidfnasket.se/static/images/episode_1.jpg"/>
+            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/episode_1.jpg"/>
             <itunes:keywords>
                 gävle,andersberg,fiskbåten,barcelona,shlomo,timrå
             </itunes:keywords>
