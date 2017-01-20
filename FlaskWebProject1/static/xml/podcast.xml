@@ -31,7 +31,7 @@
         <itunes:category text="Society &amp; Culture"/>
         <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
         <item>
-            <title>En dräpare i Andersberg</title>
+            <title>1. En dräpare i Andersberg</title>
             <link>
                 http://visynsvidfnasket.azurewebsites.net/static/episodes/1.mp3
             </link>
@@ -56,7 +56,7 @@
             <itunes:explicit>yes</itunes:explicit>
         </item>
         <item>
-            <title>Calling Mr. Siegfield Reinhardt</title>
+            <title>2. Calling Mr. Siegfield Reinhardt</title>
             <link>
                 http://visynsvidfnasket.azurewebsites.net/static/episodes/2.mp3
             </link>
