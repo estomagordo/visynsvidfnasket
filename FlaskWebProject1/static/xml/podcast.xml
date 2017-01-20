@@ -55,5 +55,28 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>Calling Mr. Siegfield Reinhardt</title>
+            <link>
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/2.mp3
+            </link>
+            <pubDate>Fri, 14 Jan 2017 06:54:12 +0000</pubDate>
+            <description>
+                I vilket vi adresserar lyssnar-feedback, pratar om sunkhak och drömmer om en helkväll på Bilagan.
+            </description>
+            <enclosure url="https://fnaskstorage.blob.core.windows.net/podcast/2.mp3" length="42635181" type="audio/mpeg"/>
+            <guid>
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/2.mp3
+            </guid>
+            <itunes:duration>58:57</itunes:duration>
+            <itunes:summary>
+                I vilket vi adresserar lyssnar-feedback, pratar om sunkhak och drömmer om en helkväll på Bilagan.
+            </itunes:summary>
+            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+            <itunes:keywords>
+                gävle,budapest,bilagan,karaoke,sunkhak,whisky
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
