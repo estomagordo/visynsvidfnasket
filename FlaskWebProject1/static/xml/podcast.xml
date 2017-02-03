@@ -78,5 +78,29 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>3. Samtidigt i Gävle</title>
+            <link>
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/3.mp3
+            </link>
+            <pubDate>Fri, 3 Feb 2017 07:41:30 +0000</pubDate>
+            <description>
+                Vi samtalar om uppväxtåren. Hur var det att växa upp i Valbo? Eller Norrtälje för den delen?
+                Dessutom analyserar vi SVT:s "Samtidigt i Hofors", och spånar på en Gävle-baserad spin-off.
+            </description>
+            <enclosure url="https://fnaskstorage.blob.core.windows.net/podcast/3.mp3" length="35631277" type="audio/mpeg"/>
+            <guid>
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/3.mp3
+            </guid>
+            <itunes:duration>57:59</itunes:duration>
+            <itunes:summary>
+                Samtidigt i Hofors. Tidigare i Valbo och Norrtälje.
+            </itunes:summary>
+            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+            <itunes:keywords>
+                hofors,norrtälje,valbo,sippan,micke,pangea,leksell
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
