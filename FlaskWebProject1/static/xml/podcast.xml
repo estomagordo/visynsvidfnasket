@@ -102,5 +102,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>4. Knivad på racken</title>
+            <link>
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/4.mp3
+            </link>
+            <pubDate>Fri, 17 Feb 2017 06:26:11 +0000</pubDate>
+            <description>
+                I ett avsnitt präglat av Joakims bryderier med stambytet får sig Gavlegårdarna en slägga värd att minnas. Givetvis hinner
+                vi också prata utförligt om diverse krogbesök, inklusive ett där Joakim besöker provinsmänniskans standardhak: Rack n Roll.
+                Christofer då? Jo, han hörs också. Bland annat imiterar han en mindre uppsättning västsvenska dialekter. Kul för hela familjen!
+            </description>
+            <enclosure url="https://fnaskstorage.blob.core.windows.net/podcast/4.mp3" length="32075128" type="audio/mpeg"/>
+            <guid>
+                http://visynsvidfnasket.azurewebsites.net/static/episodes/4.mp3
+            </guid>
+            <itunes:duration>52:12</itunes:duration>
+            <itunes:summary>
+                En kväll på Rack n Roll, ett stambyte, ett liv.
+            </itunes:summary>
+            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+            <itunes:keywords>
+                knivad,stambyte,baracker,bajsläcka,valbo,church,racken,gavlegårdarna
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
