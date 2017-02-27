@@ -1,11 +1,11 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Vi syns vid fnasket!</title>
-        <link>https://www.visynsvidfnasket.se</link>
+        <link>https://github.com/estomagordo/visynsvidfnasket</link>
         <image>
-            <url>http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg</url>
+            <url>https://fnasketblob.blob.core.windows.net/misc/title.jpg</url>
             <title>Vi syns vid fnasket!</title>
-            <link>https://www.visynsvidfnasket.se</link>
+            <link>https://github.com/estomagordo/visynsvidfnasket</link>
         </image>
         <description>
             En podcast med godtyckliga referenser till Gävle.
@@ -13,7 +13,7 @@
         <language>sv-SE</language>
         <copyright>Joakim Frödin, Christofer Ohlsson 2017</copyright>        
         <lastBuildDate>Fri, 06 Jan 2017 14:54:17 +0000</lastBuildDate>
-        <atom:link href="http://visynsvidfnasket.azurewebsites.net/static/xml/podcast.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://github.com/estomagordo/visynsvidfnasket/blob/master/FlaskWebProject1/static/xml/podcast.xml" rel="self" type="application/rss+xml" />
         <itunes:author>Joakim Frödin, Christofer Ohlsson</itunes:author>
         <itunes:summary>
             En podcast med godtyckliga referenser till Gävle.
@@ -27,29 +27,29 @@
         <itunes:keywords>
             gävle,humor,anekdoter,öl,spel,livet
         </itunes:keywords>
-        <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+        <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/title.jpg"/>
         <itunes:category text="Society &amp; Culture"/>
         <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
         <item>
             <title>1. En dräpare i Andersberg</title>
             <link>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/1.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/1.mp3
             </link>
             <pubDate>Fri, 06 Jan 2017 14:54:17 +0000</pubDate>
             <description>
                 I detta podcastens första avsnitt presenterar Jocke och Christofer sig, sätter tillvaron i Gävles ljus,
                 samt hinner säga några ord om valda stadsdelar i Gävle och eventuellt spåra ur i sitt drömmande om svunna tider.
             </description>
-            <enclosure url="https://fnaskstorage.blob.core.windows.net/podcast/1.mp3" length="56348754" type="audio/mpeg"/>
+            <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/1.mp3" length="56348754" type="audio/mpeg"/>
             <guid>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/1.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/4.mp3
             </guid>
             <itunes:duration>88:51</itunes:duration>
             <itunes:summary>
                 I detta podcastens första avsnitt presenterar Jocke och Christofer sig, sätter tillvaron i Gävles ljus,
                 samt hinner säga några ord om valda stadsdelar i Gävle och eventuellt spåra ur i sitt drömmande om svunna tider.
             </itunes:summary>
-            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/episode_1.jpg"/>
+            <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/episode_1.jpg"/>
             <itunes:keywords>
                 gävle,andersberg,fiskbåten,barcelona,shlomo,timrå
             </itunes:keywords>
@@ -58,21 +58,21 @@
         <item>
             <title>2. Calling Mr. Siegfield Reinhardt</title>
             <link>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/2.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/2.mp3
             </link>
             <pubDate>Fri, 20 Jan 2017 06:54:12 +0000</pubDate>
             <description>
                 I vilket vi adresserar lyssnar-feedback, pratar om sunkhak och drömmer om en helkväll på Bilagan.
             </description>
-            <enclosure url="https://fnaskstorage.blob.core.windows.net/podcast/2.mp3" length="42635181" type="audio/mpeg"/>
+            <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/2.mp3" length="42635181" type="audio/mpeg"/>
             <guid>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/2.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/2.mp3
             </guid>
             <itunes:duration>58:57</itunes:duration>
             <itunes:summary>
                 I vilket vi adresserar lyssnar-feedback, pratar om sunkhak och drömmer om en helkväll på Bilagan.
             </itunes:summary>
-            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+            <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/title.jpg"/>
             <itunes:keywords>
                 gävle,budapest,bilagan,karaoke,sunkhak,whisky
             </itunes:keywords>
@@ -81,22 +81,22 @@
         <item>
             <title>3. Samtidigt i Gävle</title>
             <link>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/3.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/3.mp3
             </link>
             <pubDate>Fri, 3 Feb 2017 07:41:30 +0000</pubDate>
             <description>
                 Vi samtalar om uppväxtåren. Hur var det att växa upp i Valbo? Eller Norrtälje för den delen?
                 Dessutom analyserar vi SVT:s "Samtidigt i Hofors", och spånar på en Gävle-baserad spin-off.
             </description>
-            <enclosure url="https://fnaskstorage.blob.core.windows.net/podcast/3.mp3" length="35631277" type="audio/mpeg"/>
+            <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/3.mp3" length="35631277" type="audio/mpeg"/>
             <guid>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/3.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/3.mp3
             </guid>
             <itunes:duration>57:59</itunes:duration>
             <itunes:summary>
                 Samtidigt i Hofors. Tidigare i Valbo och Norrtälje.
             </itunes:summary>
-            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+            <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/title.jpg"/>
             <itunes:keywords>
                 hofors,norrtälje,valbo,sippan,micke,pangea,leksell
             </itunes:keywords>
@@ -105,7 +105,7 @@
         <item>
             <title>4. Knivad på racken</title>
             <link>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/4.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/4.mp3
             </link>
             <pubDate>Fri, 17 Feb 2017 06:26:11 +0000</pubDate>
             <description>
@@ -113,15 +113,15 @@
                 vi också prata utförligt om diverse krogbesök, inklusive ett där Joakim besöker provinsmänniskans standardhak: Rack n Roll.
                 Christofer då? Jo, han hörs också. Bland annat imiterar han en mindre uppsättning västsvenska dialekter. Kul för hela familjen!
             </description>
-            <enclosure url="https://fnaskstorage.blob.core.windows.net/podcast/4.mp3" length="32075128" type="audio/mpeg"/>
+            <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/4.mp3" length="32075128" type="audio/mpeg"/>
             <guid>
-                http://visynsvidfnasket.azurewebsites.net/static/episodes/4.mp3
+                https://fnasketblob.blob.core.windows.net/avsnitt/4.mp3
             </guid>
             <itunes:duration>52:12</itunes:duration>
             <itunes:summary>
                 En kväll på Rack n Roll, ett stambyte, ett liv.
             </itunes:summary>
-            <itunes:image href="http://visynsvidfnasket.azurewebsites.net/static/images/title.jpg"/>
+            <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/title.jpg"/>
             <itunes:keywords>
                 knivad,stambyte,baracker,bajsläcka,valbo,church,racken,gavlegårdarna
             </itunes:keywords>
