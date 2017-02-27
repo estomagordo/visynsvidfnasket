@@ -42,7 +42,7 @@
             </description>
             <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/1.mp3" length="56348754" type="audio/mpeg"/>
             <guid>
-                https://fnasketblob.blob.core.windows.net/avsnitt/4.mp3
+                Avsnitt_1
             </guid>
             <itunes:duration>88:51</itunes:duration>
             <itunes:summary>
@@ -66,7 +66,7 @@
             </description>
             <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/2.mp3" length="42635181" type="audio/mpeg"/>
             <guid>
-                https://fnasketblob.blob.core.windows.net/avsnitt/2.mp3
+                Avsnitt_2
             </guid>
             <itunes:duration>58:57</itunes:duration>
             <itunes:summary>
@@ -90,7 +90,7 @@
             </description>
             <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/3.mp3" length="35631277" type="audio/mpeg"/>
             <guid>
-                https://fnasketblob.blob.core.windows.net/avsnitt/3.mp3
+                Avsnitt_3
             </guid>
             <itunes:duration>57:59</itunes:duration>
             <itunes:summary>
@@ -115,7 +115,7 @@
             </description>
             <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/4.mp3" length="32075128" type="audio/mpeg"/>
             <guid>
-                https://fnasketblob.blob.core.windows.net/avsnitt/4.mp3
+                Avsnitt_4
             </guid>
             <itunes:duration>52:12</itunes:duration>
             <itunes:summary>
