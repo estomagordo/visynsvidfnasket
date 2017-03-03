@@ -127,5 +127,29 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>5. Är inte Radioaktiva Räker från Hofors?</title>
+            <link>
+                https://fnasketblob.blob.core.windows.net/avsnitt/5.mp3
+            </link>
+            <pubDate>Fri, 4 Mar 2017 07:56:02 +0000</pubDate>
+            <description>
+                Podden visar sig vara smärtsamt oinsatt i Gävles nuvarande musikliv, vilket inte hindrar någon av deltagarna från att ändå prata vitt och brett om detsamma.
+                Ett löfte eller två utfästs. Christofer har haft den perfekta onsdagsfyllan. Och så var det ju det där med Thåström. Vad har han egentligen emot Gävle?
+            </description>
+            <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/5.mp3" length="45498711" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_5
+            </guid>
+            <itunes:duration>64:36</itunes:duration>
+            <itunes:summary>
+                Thåströms ovilja att besöka Gävle föranleder en diskussion som mynnar ut i insikter om det egna okunnandet.
+            </itunes:summary>
+            <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Thåström,Vi Lever,Gävle,Matadoren,Jakobsberg,Di Leva,Mora Träsk,Baron Bane,Local Heroes
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
