@@ -132,7 +132,7 @@
             <link>
                 https://fnasketblob.blob.core.windows.net/avsnitt/5.mp3
             </link>
-            <pubDate>Fri, 4 Mar 2017 07:56:02 +0000</pubDate>
+            <pubDate>Fri, 3 Mar 2017 07:56:02 +0000</pubDate>
             <description>
                 Podden visar sig vara smärtsamt oinsatt i Gävles nuvarande musikliv, vilket inte hindrar någon av deltagarna från att ändå prata vitt och brett om detsamma.
                 Ett löfte eller två utfästs. Christofer har haft den perfekta onsdagsfyllan. Och så var det ju det där med Thåström. Vad har han egentligen emot Gävle?
@@ -148,6 +148,30 @@
             <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/title.jpg"/>
             <itunes:keywords>
                 Thåström,Vi Lever,Gävle,Matadoren,Jakobsberg,Di Leva,Mora Träsk,Baron Bane,Local Heroes
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <title>6. Bli lite så där opiummysig</title>
+            <link>
+                https://fnasketblob.blob.core.windows.net/avsnitt/6.mp3
+            </link>
+            <pubDate>Fri, 17 Mar 2017 07:54:45 +0000</pubDate>
+            <description>
+                Kanske hade podden en ambition om att inte prata rusmedel denna gång. Åtminstone innan våren sprack upp och visade sitt fruktdoftande anlete.
+                Så podden pratade uteserveringar. Och Stadsfest. Och opium. Som sig bör.
+            </description>
+            <enclosure url="https://fnasketblob.blob.core.windows.net/avsnitt/6.mp3" length="39623291" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_6
+            </guid>
+            <itunes:duration>55:01</itunes:duration>
+            <itunes:summary>
+                Våren är här, och vi med den. Vilken uteservering är egentligen bäst i Gävle?
+            </itunes:summary>
+            <itunes:image href="https://fnasketblob.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Opium,Axels tivoli,Whoopsie Daisy,Geflebockens,Terrassen,Cykla
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
