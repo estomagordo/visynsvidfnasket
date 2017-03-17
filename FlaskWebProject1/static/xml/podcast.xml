@@ -13,7 +13,7 @@
         <language>sv-SE</language>
         <copyright>Joakim Frödin, Christofer Ohlsson 2017</copyright>        
         <lastBuildDate>Fri, 06 Jan 2017 14:54:17 +0000</lastBuildDate>
-        <atom:link href="https://github.com/estomagordo/visynsvidfnasket/blob/master/FlaskWebProject1/static/xml/podcast.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://raw.githubusercontent.com/estomagordo/visynsvidfnasket/master/FlaskWebProject1/static/xml/podcast.xml" rel="self" type="application/rss+xml" />
         <itunes:author>Joakim Frödin, Christofer Ohlsson</itunes:author>
         <itunes:summary>
             En podcast med godtyckliga referenser till Gävle.
