@@ -175,5 +175,29 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>7. ... och så Lars Beckman i corpse paint</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/7.mp3
+            </link>
+            <pubDate>Fri, 31 Mar 2017 08:50:02 +0000</pubDate>
+            <description>
+                Podden har sett Brynäs spöa LHC (inte Large Hadron Collider) och blir därför lite sportlyrisk. Paninialbum, David Seamans mustasch, inget är främmande.
+                Dessutom har Gävle (kommun) klivit upp över 100 000 invånare, något som måste hyllas och hånas. Ständig ciceron: Lars Beckman.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/7.mp3" length="35862321" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_7
+            </guid>
+            <itunes:duration>49:48</itunes:duration>
+            <itunes:summary>
+                Vore inte allt mycket bättre om Lars Beckma, i corpse paint, sköt de kremerades aska över alla hårdrockare?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/beckman_corpse.jpg"/>
+            <itunes:keywords>
+                Brynäs,Panini,Lars Beckman,100 000,Gävle,David Seaman,tårta
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
