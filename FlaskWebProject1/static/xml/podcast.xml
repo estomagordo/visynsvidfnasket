@@ -248,5 +248,29 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>10. Live at Bishops</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/10.mp3
+            </link>
+            <pubDate>Fri, 12 May 2017 10:33:22 +0000</pubDate>
+            <description>
+                Vi firar tio avsnitt! Detta sker ståndsmässigt från ett chambre séparée på Bishops Arms. Avsnittets huvudnummer är en stor genomgång av Furuviksparkens konsertutbud.
+                Men dessförinnan: Hur optimerar man avföringen under sin Antarktissemester?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/10.mp3" length="61766732" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_10
+            </guid>
+            <itunes:duration>85:47</itunes:duration>
+            <itunes:summary>
+                Vilken olja dricker Ola Skinnarmo? Vem fan är Miriam Bryant?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Bishops Arms, Ola Skinnarmo, Bajsa i Antarktis, Furuviksparken, Konserter, Miriam Bryant, The Hives
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
