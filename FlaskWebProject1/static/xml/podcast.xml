@@ -272,5 +272,28 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>11. Roslagsmästerskapen i mackkastning '93</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/11.mp3
+            </link>
+            <pubDate>Fri, 26 May 2017 12:12:19 +0000</pubDate>
+            <description>
+                Om kastade mackor och älskande par i Roslagen. Och hur fort rymmer egentligen en sköldpadda? Bonusfråga: Vem bryr sig om ett VM-guld?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/11.mp3" length="34310337" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_11
+            </guid>
+            <itunes:duration>47:39</itunes:duration>
+            <itunes:summary>
+                Ibland hamnar man oväntat där, bland ungdomliga minnen man inte besökt på 20 år.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Sköldpaddor, kasta macka, Roslagen, Tre Kronor
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
