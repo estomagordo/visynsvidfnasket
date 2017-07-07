@@ -318,5 +318,29 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>14. Är det handikappvänligt? Ingen aning, jag var full</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/14.mp3
+            </link>
+            <pubDate>Fri, 7 Jul 2017 13:15:06 +0000</pubDate>
+            <description>
+                Inledningsvis en förklaring till vad som hände med det osläppta avsnitt 13. Därefter behandlar vi exotiska platser som Duisburg, Riga och Gävle Strand,
+                med mellanspel i diverse managerspel till PC. Vad annars? Lite bilfunderingar, semesterplaner. Väldigt casual avsnitt. Och så recensioner på Google Maps, så klart!
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/12.mp3" length="41447340" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_14
+            </guid>
+            <itunes:duration>58:53</itunes:duration>
+            <itunes:summary>
+                Jocke har rest mycket och ska fortsätta göra så. Christofer är mest hemma i Gävle, kommer upp sig socioekonomiskt och funderar på en ny bil. Bonus: vilket betyg får Bishops Arms Gävle?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Tyskland, Riga, Gävle Strand, Skoda Kodiaq, Google Maps, Bishops Arms, Avsnitt 13, Motorsport Manager, Football Manager
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
