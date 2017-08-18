@@ -342,5 +342,29 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>15. Farbror brukar ta sig en kvarting innan inspelning</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/15.mp3
+            </link>
+            <pubDate>Fri, 18 Aug 2017 08:22:26 +0000</pubDate>
+            <description>
+                Efter en välbehövlig sommarsemester är podden tillbaka i fullt ös. Vi avbehandlar klassiska sommarämnen såsom stjärtmassager i Grekland,
+                vad "förebyggande" heter på engelska och rotfyllningens status i Sverige i nådens år, 2017. Dessutom: Jocke har testat Mustasch och Skäggs Benedict söker förstärkning.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/15.mp3" length="45925734" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_15
+            </guid>
+            <itunes:duration>64:26</itunes:duration>
+            <itunes:summary>
+                Hurdan är en grekisk stjärtmassage? Vad kostar egentligen en rotfyllning? Och hur långt skulle man egentligen kunna hoppa?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Stjärtmassage, Belgian strong ale, Stockholm halvmara, Friidrott, Rotfyllning, Cykelhjälm, Mustasch, Stadsfesten, Skäggs Benedict
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
