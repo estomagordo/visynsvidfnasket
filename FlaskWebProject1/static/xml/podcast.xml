@@ -366,5 +366,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>16. Det är ju bara psykopater som gillar Foo Fighters</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/16.mp3
+            </link>
+            <pubDate>Fri, 1 Sep 2017 09:12:50 +0000</pubDate>
+            <description>
+                Podden har tagit sig några öl på varsitt håll och strålar sedan samman för att prata nästan rekordlänge om dåliga band,
+                Jockes möjliga dödsruna och allt däremellan. Bonusfråga: Klarar vi av att inte nämna Lars Beckman vid namn? Bonussvar: Nej.
+                Dessutom tar vi idén om att friidrotta ytterligare ett steg.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/16.mp3" length="62575574" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_16
+            </guid>
+            <itunes:duration>87:47</itunes:duration>
+            <itunes:summary>
+                Visst gör det ont när kollegor flyttar, borde inte Foo Fighters göra en Nirvana och när såg man egentligen en skitspelning senast?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Dödsruna, Loffe, Foo Fighters, Oasis, M. Ward, Brynäs, Ramones, Annie Lööf, Helsingborg, Bröllop
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
