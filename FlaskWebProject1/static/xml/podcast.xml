@@ -391,5 +391,31 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>17. Nordkorea, Sjörapporten och eventuellt Börje Ahlstedt</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/17.mp3
+            </link>
+            <pubDate>Fri, 15 Sep 2017 07:22:00 +0000</pubDate>
+            <description>
+                Vilket djur borde spela mördaren i en nyinspelning av Psycho, där alla skådisar är djur? Och vad är längst, en resa
+                till Norrtälje, eller Braveheart? Podden pratar även nya hamburgeretableringar i Gävle, inklusive en nu utdaterad spekulation
+                gällande Bastard Burgers nya lokaler. Bonus: Foie gras eller pyttipanna från trossen? Vi har svaren!
+                Bonus malus: Vem vill sponsra poddens dekadens i Belgien?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/17.mp3" length="40670986" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_17
+            </guid>
+            <itunes:duration>56:55</itunes:duration>
+            <itunes:summary>
+                Hur gör djur? Vad äter egentligen en beväring? Och vilken restaurang runt Stortorget är mest överflödig?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Rådjur, Bastard Burgers, Lumpenkäk, Ruben Östlund, P1, Hamburgare, Moules frites
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
