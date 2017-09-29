@@ -417,5 +417,29 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>18. Den stora, tråkiga torsken maldes till fiskbullar</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/18.mp3
+            </link>
+            <pubDate>Fri, 29 Sep 2017 10:03:12 +0000</pubDate>
+            <description>
+                Ett fruktansvärt tråkigt avsnitt. Vårt sämsta någonsin. Ingenting stämmer. Inget flow, ingenting.
+                Vi skäms.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/18.mp3" length="39281056" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_18
+            </guid>
+            <itunes:duration>54:06</itunes:duration>
+            <itunes:summary>
+                Ett horribelt avsnitt. Sämst. Tråkigt. Ett misslyckande. Det är inte så här vi vill bli ihågkomna.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Piteå, Resa ensam, Donald Knuth, Tråkigt, Hemskt, Värdelöst, Gin & Tonic, Fattigadel
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
