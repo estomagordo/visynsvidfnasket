@@ -441,5 +441,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>19. Nöjesprofil i Gävle onanerade offentligt</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/19.mp3
+            </link>
+            <pubDate>Fri, 13 Oct 2017 10:13:22 +0000</pubDate>
+            <description>
+                Podden har förärats med ett otroligt hedersuppdrag, vars blotta existens kastar sken över vår betydelse för samtida socialt Gävleliv.
+                Så vi diskuterar upplägget utförligt, med utvikningar om såväl påven som Maradona.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/19.mp3" length="49520553" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_19
+            </guid>
+            <itunes:duration>69:57</itunes:duration>
+            <itunes:summary>
+                Vi är tillbaka i högform och diskuterar kändisar, öl och Gävle på ett i alla avseenden poddtypiskt vis.
+                Dessutom följer vi upp förra avsnittets cliffhanger om Jockes psykologiska profil.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Öl, Påven, Maradona, Thåström, Hofors-Micke, Psykologi, Falun, Tåg, Gävle, Offentlig onani
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
