@@ -417,5 +417,83 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>18. Den stora, tråkiga torsken maldes till fiskbullar</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/18.mp3
+            </link>
+            <pubDate>Fri, 29 Sep 2017 10:03:12 +0000</pubDate>
+            <description>
+                Ett fruktansvärt tråkigt avsnitt. Vårt sämsta någonsin. Ingenting stämmer. Inget flow, ingenting.
+                Vi skäms.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/18.mp3" length="39281056" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_18
+            </guid>
+            <itunes:duration>54:06</itunes:duration>
+            <itunes:summary>
+                Ett horribelt avsnitt. Sämst. Tråkigt. Ett misslyckande. Det är inte så här vi vill bli ihågkomna.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Piteå, Resa ensam, Donald Knuth, Tråkigt, Hemskt, Värdelöst, Gin o Tonic, Fattigadel
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <title>19. Nöjesprofil i Gävle onanerade offentligt</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/19.mp3
+            </link>
+            <pubDate>Fri, 13 Oct 2017 10:13:22 +0000</pubDate>
+            <description>
+                Podden har förärats med ett otroligt hedersuppdrag, vars blotta existens kastar sken över vår betydelse för samtida socialt Gävleliv.
+                Så vi diskuterar upplägget utförligt, med utvikningar om såväl påven som Maradona.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/19.mp3" length="49520553" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_19
+            </guid>
+            <itunes:duration>69:57</itunes:duration>
+            <itunes:summary>
+                Vi är tillbaka i högform och diskuterar kändisar, öl och Gävle på ett i alla avseenden poddtypiskt vis.
+                Dessutom följer vi upp förra avsnittets cliffhanger om Jockes psykologiska profil.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Öl, Påven, Maradona, Thåström, Hofors-Micke, Psykologi, Falun, Tåg, Gävle, Offentlig onani
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <title>20. En ljuskägla</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/20.mp3
+            </link>
+            <pubDate>Fri, 27 Oct 2017 08:42:51 +0000</pubDate>
+            <description>
+                I rätt traditionell ordning inleds samtalet med en liten recap på de gångna veckorna i våra liv.
+                Rätt kort därefter gled samtalet in på elefanten i det offentliga rummet.
+                Ämnet kan vara svårt att ens närma sig som man, men vi tror att vi hittade rätt balans
+                mellan självrannsakan, reflektioner och upprördhet här.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/20.mp3" length="31588099" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_20
+            </guid>
+            <itunes:duration>51:33</itunes:duration>
+            <itunes:summary>
+                I rätt traditionell ordning inleds samtalet med en liten recap på de gångna veckorna i våra liv.
+                Rätt kort därefter gled samtalet in på elefanten i det offentliga rummet.
+                Ämnet kan vara svårt att ens närma sig som man, men vi tror att vi hittade rätt balans
+                mellan självrannsakan, reflektioner och upprördhet här.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Illbatting, Hockey, Brynäs, Bastard Burgers, Metoo, Sexism, Mansrollen, Självrannsakan, Maktlöshet
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
