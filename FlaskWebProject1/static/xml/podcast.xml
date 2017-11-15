@@ -495,5 +495,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>21. Azzurri fuori dal Mondiale</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/21.mp3
+            </link>
+            <pubDate>Wed, 15 Nov 2017 09:52:01 +0000</pubDate>
+            <description>
+                Äntligen tillbaka! Inspelat före, under och direkt efter Sveriges ärofyllda Milanotriumf. Vår sinnesstämning präglas
+                totalt av fotbollen, men vi hann ändå med att prata musik, Las Palmas och ost. Bonus: Animé och Kaliningrad.
+                Men kanske ännu mer: Vilka lag ska vi hålla på när Sverige väl har slagits ut?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/21.mp3" length="54852460" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_21
+            </guid>
+            <itunes:duration>77:19</itunes:duration>
+            <itunes:summary>
+                Äntligen tillbaka! Inspelat före, under och direkt efter Sveriges ärofyllda Milanotriumf. Vår sinnesstämning präglas
+                totalt av fotbollen, men vi hann ändå med att prata musik, Las Palmas och ost. Bonus: Animé och Kaliningrad.
+                Men kanske ännu mer: Vilka lag ska vi hålla på när Sverige väl har slagits ut?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Fotboll, Sverige, Italien, Andreas Granqvist, Robin Olsen, Fotbolls-VM, Kaliningrad, Las Palmas, The National, Jason Isbell
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
