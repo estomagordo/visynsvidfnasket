@@ -522,5 +522,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>22. Man vill ju ha langusterfrukost</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/22.mp3
+            </link>
+            <pubDate>Fri, 24 Nov 2017 09:43:21 +0000</pubDate>
+            <description>
+                Äntligen! är Gefle Dagblads öltest publicerat, varför Christofer lämnar sin rapport. Nämnde man talar också utförligt om sin vistelse i Amsterdam.
+                Därefter blickar Jocke framåt mot ett två veckor långt äventyr i Kina.
+                Bonus: Hur förbereder sig man inför fest med småbarnsföräldrar? Vad kallar man sin egenbryggda rököl?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/22.mp3" length="41388641" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_22
+            </guid>
+            <itunes:duration>57:30</itunes:duration>
+            <itunes:summary>
+                Äntligen! är Gefle Dagblads öltest publicerat, varför Christofer lämnar sin rapport. Nämnde man talar också utförligt om sin vistelse i Amsterdam.
+                Därefter blickar Jocke framåt mot ett två veckor långt äventyr i Kina.
+                Bonus: Hur förbereder sig man inför fest med småbarnsföräldrar? Vad kallar man sin egenbryggda rököl?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Amsterdam, Nanjing, Languster, Michelinkrog, Stephen Hawking-fylla, Tsingtao, Twittermänniskorna, Kycklingembryon, Öltest, Hopsie Daisy
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
