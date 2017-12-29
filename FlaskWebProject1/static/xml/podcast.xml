@@ -574,5 +574,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>24. Slädtarm</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/24.mp3
+            </link>
+            <pubDate>Fri, 29 Dec 2017 12:10:08 +0000</pubDate>
+            <description>
+                Vi puttrar oss lite smått igenom den gångna julhelgen och tankar om nyår. Lite tankar om podden i stort dyker också upp.
+                Dessutom: Hur låter egentligen våra tomteröster? Vad tror vi om det nya burgarstället? Och kan vi låta bli att ordvitsa på sous vide?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/24.mp3" length="32246831 " type="audio/mpeg"/>
+            <guid>
+                Avsnitt_24
+            </guid>
+            <itunes:duration>45:55</itunes:duration>
+            <itunes:summary>
+                Vi puttrar oss lite smått igenom den gångna julhelgen och tankar om nyår. Lite tankar om podden i stort dyker också upp.
+                Dessutom: Hur låter egentligen våra tomteröster? Vad tror vi om det nya burgarstället? Och kan vi låta bli att ordvitsa på sous vide?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/ep24.jpg"/>
+            <itunes:keywords>
+                Julfirande, tomten, Gävlebocken, sous vide, Lilla tjuren, Nyår, Östersund, Tomteröst
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
