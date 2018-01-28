@@ -624,5 +624,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>26. Kålrot</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/26.mp3
+            </link>
+            <pubDate>Sun, 28 Jan 2018 16:20:07 +0000</pubDate>
+            <description>
+                Vi går in hårt för att med största möjliga mängd fördomar och killgissningar klassificera stora delar av Gävles restaurangutbud.
+                På menyn: Matildas, Buddy's, Verovin, Libanesen på Hörnet, Bastard Burgers.
+                Innehåller: många% kålrot.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/26.mp3" length="60241282" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_26
+            </guid>
+            <itunes:duration>83:46</itunes:duration>
+            <itunes:summary>
+                Vi går in hårt för att med största möjliga mängd fördomar och killgissningar klassificera stora delar av Gävles restaurangutbud.
+                På menyn: Matildas, Buddy's, Verovin, Libanesen på Hörnet, Bastard Burgers.
+                Innehåller: många% kålrot.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Gävle, restauranger, Matildas, Kålrot, Buddy's, Libanesen på hörnet, Litauer, Sportbar, Fine dining
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
