@@ -651,5 +651,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>27. Why do Japanese tourists?</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/27.mp3
+            </link>
+            <pubDate>Sun, 11 Feb 2018 11:03:54 +0000</pubDate>
+            <description>
+                Jocke har funderingar om japanska turister. Och varför pratar egentligen piloter så märkligt?
+                I övrigt: Plommonbrännvin och stora jävla kyrkor. Bilolyckan. Rökning på uteserveringar?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/27.mp3" length="38884251" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_27
+            </guid>
+            <itunes:duration>54:59</itunes:duration>
+            <itunes:summary>
+                Jocke har funderingar om japanska turister. Och varför pratar egentligen piloter så märkligt?
+                I övrigt: Plommonbrännvin och stora jävla kyrkor. Bilolyckan. Rökning på uteserveringar?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Rökförbud, bilolycka, Florens, kyrkor, plommonbrännvin, piloter, japaner
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
