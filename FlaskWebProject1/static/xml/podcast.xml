@@ -705,5 +705,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>29. Tyngdpunkt under gräsmattan</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/29.mp3
+            </link>
+            <pubDate>Sun, 16 Mar 2018 14:46:21 +1000</pubDate>
+            <description>
+                Ett kraftigt försenat avsnitt - till slut i era öron! Vi skyller helt och hållet på teknik, Michael Crichton och kolportörer av blandnötter.
+                I övrigt: En bandymatch, Christofer ger Jocke en utmaning, vad heter dansken i Tottenham?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/29.mp3" length="36675440" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_29
+            </guid>
+            <itunes:duration>51:31</itunes:duration>
+            <itunes:summary>
+                Ett kraftigt försenat avsnitt - till slut i era öron! Vi skyller helt och hållet på teknik, Michael Crichton och kolportörer av blandnötter.
+                I övrigt: En bandymatch, Christofer ger Jocke en utmaning, vad heter dansken i Tottenham?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Burj Khalifa, Minsk, Kärnvapen, Dennis Nedry, Utmaningen, Lunchrestaurang
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
