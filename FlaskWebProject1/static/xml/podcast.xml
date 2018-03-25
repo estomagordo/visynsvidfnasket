@@ -710,7 +710,7 @@
             <link>
                 https://fnaskblobba.blob.core.windows.net/avsnitt/29.mp3
             </link>
-            <pubDate>Sun, 16 Mar 2018 14:46:21 +1000</pubDate>
+            <pubDate>Fri, 16 Mar 2018 14:46:21 +1000</pubDate>
             <description>
                 Ett kraftigt försenat avsnitt - till slut i era öron! Vi skyller helt och hållet på teknik, Michael Crichton och kolportörer av blandnötter.
                 I övrigt: En bandymatch, Christofer ger Jocke en utmaning, vad heter dansken i Tottenham?
@@ -727,6 +727,33 @@
             <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
             <itunes:keywords>
                 Burj Khalifa, Minsk, Kärnvapen, Dennis Nedry, Utmaningen, Lunchrestaurang
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <title>30. The Poughkeepsie Syndrome</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/30.mp3
+            </link>
+            <pubDate>Sun, 25 Mar 2018 14:16:11 +1000</pubDate>
+            <description>
+                En ståndsmässig introduktion. En återkoppling. En kraftigt förgrenad utvikning som börjar strax före Norrmalmstorg
+                och som går via K-Fed och Poughkeepsie till att landa någonstans i Liverpools omklädningsrum.
+                Dessutom: vad sysslar egentligen Gävles krogsultan med?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/30.mp3" length="35548758" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_30
+            </guid>
+            <itunes:duration>49:21</itunes:duration>
+            <itunes:summary>
+                En ståndsmässig introduktion. En återkoppling. En kraftigt förgrenad utvikning som börjar strax före Norrmalmstorg
+                och som går via K-Fed och Poughkeepsie till att landa någonstans i Liverpools omklädningsrum.
+                Dessutom: vad sysslar egentligen Gävles krogsultan med?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Bojkott, K-Fed, Poughkeepsie, Norrmalmstorg, Sultan Beirut, Never-nudes
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
