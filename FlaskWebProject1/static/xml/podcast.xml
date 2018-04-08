@@ -757,5 +757,34 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>31. Gråsuggan</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/31.mp3
+            </link>
+            <pubDate>Sun, 8 Apr 2018 15:09:07 +1000</pubDate>
+            <description>
+                Ytterligare en liveinspelning! Massor av fredagskänsla, vin och spontanitet.
+                Mycket Jocke: Hans kroppslängd, framtid som lobbyist, samt matteläraren från gymnasiet.
+                Hette han Mange? Vad hade han på kuken? Vilken Absolute Music var hans favorit?
+                Dessutom: Kort om Gävlebryggeriet Illbatting.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/31.mp3" length="46662140" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_31
+            </guid>
+            <itunes:duration>65:50</itunes:duration>
+            <itunes:summary>
+                Ytterligare en liveinspelning! Massor av fredagskänsla, vin och spontanitet.
+                Mycket Jocke: Hans kroppslängd, framtid som lobbyist, samt matteläraren från gymnasiet.
+                Hette han Mange? Vad hade han på kuken? Vilken Absolute Music var hans favorit?
+                Dessutom: Kort om Gävlebryggeriet Illbatting.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Mange, Absolute Music, Dvärgar, Illbatting, Gävle, Live, Livepodd
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
