@@ -786,5 +786,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>32. Vardagseufori</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/32.mp3
+            </link>
+            <pubDate>Sun, 22 Apr 2018 12:13:55 +1000</pubDate>
+            <description>
+                Stor fördomsspecial! Vilka arketyper har egentligen vilka husdhur?
+                Hör allt om grå jako, leguan, bondkatt, minigris och schäfer!
+                Dessutom: Ta till vara på vardagens små glädjeämnen. Det må vara Malou-töntigt, men även lite härligt.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/32.mp3" length="41700966" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_32
+            </guid>
+            <itunes:duration>:</itunes:duration>
+            <itunes58:23summary>
+                Stor fördomsspecial! Vilka arketyper har egentligen vilka husdhur?
+                Hör allt om grå jako, leguan, bondkatt, minigris och schäfer!
+                Dessutom: Ta till vara på vardagens små glädjeämnen. Det må vara Malou-töntigt, men även lite härligt.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Husdjur, fördomar, körkort, grå jako, konstlotteri, Mikkeller, Prisjakt
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
