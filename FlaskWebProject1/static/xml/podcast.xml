@@ -813,5 +813,36 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>33. Då går jag ner i min källare</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/33.mp3
+            </link>
+            <pubDate>Sun, 6 May 2018 08:20:16 +1000</pubDate>
+            <description>
+                Vi pratar relativt mycket om vad som händer inom oss när en känd person dör. Hur mycket ska man bry sig?
+                Är det fel på den som har en direktkoppling från varseblivande till postknappen?
+                Eller möjligen på den vars barndomshjälte dör, utan att det bekommer en?
+                Kanske är det så att allt går an?
+                Bonus: Vilket ordningsbetyg hade Svullos klasskamrater? Och hur känner man igen en ödlemänniska?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/32.mp3" length="29487549" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_33
+            </guid>
+            <itunes:duration>41:54</itunes:duration>
+            <itunes:summary>
+                Vi pratar relativt mycket om vad som händer inom oss när en känd person dör. Hur mycket ska man bry sig?
+                Är det fel på den som har en direktkoppling från varseblivande till postknappen?
+                Eller möjligen på den vars barndomshjälte dör, utan att det bekommer en?
+                Kanske är det så att allt går an?
+                Bonus: Vilket ordningsbetyg hade Svullos klasskamrater? Och hur känner man igen en ödlemänniska?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Giacomo, Gioachino, Pierre Isacsson, Svullo, Avicii, Estonia, Vitt vin
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
