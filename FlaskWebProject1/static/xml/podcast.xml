@@ -844,5 +844,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>34. Kemisk lunginflammation medelst gin</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/34.mp3
+            </link>
+            <pubDate>Sun, 20 May 2018 10:56:47 +1000</pubDate>
+            <description>
+                Vi redogör för höjdpunkterna från våra respektive veckor: semesterresan till Florens och jobbresan till Seattle.
+                Ont om: Ordet "klimatångest".
+                Typiska funderingar: Är pizzorna godare i Sandviken än i Italien? Hur jävla god tonic dricker vi?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/34.mp3" length="37868861" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_34
+            </guid>
+            <itunes:duration>53:45</itunes:duration>
+            <itunes:summary>
+                Vi redogör för höjdpunkterna från våra respektive veckor: semesterresan till Florens och jobbresan till Seattle.
+                Ont om: Ordet "klimatångest".
+                Typiska funderingar: Är pizzorna godare i Sandviken än i Italien? Hur jävla god tonic dricker vi?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Florens, Italien, Seattle, USA, Business travel, Iceland Air, Pizza, GT
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
