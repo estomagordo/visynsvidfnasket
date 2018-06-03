@@ -871,5 +871,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>35. Det är långt mellan Sid Vicious och Mark Knopfler</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/35.mp3
+            </link>
+            <pubDate>Sun, 3 Jun 2018 16:55:48 +1000</pubDate>
+            <description>
+                En osedvanligt trött Christofer vallar in Jocke, lyssnarna - ja hela poddosfären i ett bedrägligt lugnt tempo.
+                Lite som ett bollrullande, avvaktande brasilianskt landslag på 90-talet, i 34-gradig hetta.
+                Själva innehållet då? Adrians fiskrestaurang! Vad lyssnar egentligen en halkbaneinstruktör på för musik?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/35.mp3" length="30752461" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_35
+            </guid>
+            <itunes:duration>43:18</itunes:duration>
+            <itunes:summary>
+                En osedvanligt trött Christofer vallar in Jocke, lyssnarna - ja hela poddosfären i ett bedrägligt lugnt tempo.
+                Lite som ett bollrullande, avvaktande brasilianskt landslag på 90-talet, i 34-gradig hetta.
+                Själva innehållet då? Adrians fiskrestaurang! Vad lyssnar egentligen en halkbaneinstruktör på för musik?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Halkbana, Mark Knopfler, Sid Vicious, Adrians, Tierp, Gävle
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
