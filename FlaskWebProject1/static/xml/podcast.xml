@@ -898,5 +898,34 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>36. Snabba solglasögon</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/36.mp3
+            </link>
+            <pubDate>Sun, 17 Jun 2018 14:34:34 +1000</pubDate>
+            <description>
+                Fotbolls-VM är här och vi rycks med i hysterin. Kanske särskilt Christofer, som deltar i fler VM-tips än han kan räkna till.
+                Vi pratar oväntat mycket om hur det vore att dela rum med Andreas Isaksson.
+                Och vad är egentligen snabba solglasögon för något?
+                Dessutom: En lokaltidningsredaktion värd att hyllas.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/36.mp3" length="33852417" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_36
+            </guid>
+            <itunes:duration>48:08</itunes:duration>
+            <itunes:summary>
+                Fotbolls-VM är här och vi rycks med i hysterin. Kanske särskilt Christofer, som deltar i fler VM-tips än han kan räkna till.
+                Vi pratar oväntat mycket om hur det vore att dela rum med Andreas Isaksson.
+                Och vad är egentligen snabba solglasögon för något?
+                Dessutom: En lokaltidningsredaktion värd att hyllas.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Stor stark, Fotbolls-VM, Nisse, Gefle Dagblad, Snabba solglasögon, Edgar Davids, Andreas Isaksson
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
