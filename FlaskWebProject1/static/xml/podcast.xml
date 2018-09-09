@@ -1010,5 +1010,34 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>40. Marijn Ingmar Lorenzo Janssen</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/40.mp3
+            </link>
+            <pubDate>Sun, 9 Sep 2018 11:09:55 +0200</pubDate>
+            <description>
+                Stor valspecial! Vi pratar lite lättsamt om några av valets mindre aktörer.
+                Lagom mycket Gävlekoppling utlovas.
+                Dessutom sätts Jockes förmåga till att dra slutsatser utifrån knapphändig information på prov.
+                Gäst detta avsnitt: Jockes diskmaskin. Frånvarande: Christofers ordinarie röst.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/40.mp3" length="44373494" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_40
+            </guid>
+            <itunes:duration>63:22</itunes:duration>
+            <itunes:summary>
+                Stor valspecial! Vi pratar lite lättsamt om några av valets mindre aktörer.
+                Lagom mycket Gävlekoppling utlovas.
+                Dessutom sätts Jockes förmåga till att dra slutsatser utifrån knapphändig information på prov.
+                Gäst detta avsnitt: Jockes diskmaskin. Frånvarande: Christofers ordinarie röst.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Marijn Ingmar Lorenzo Janssen, Valet, Val 2018, Gävle, Hedesunda, Valmyndigheten, Partinamn
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
