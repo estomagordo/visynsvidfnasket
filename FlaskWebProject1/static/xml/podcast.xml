@@ -1039,5 +1039,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>41. Svärdmannen</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/41.mp3
+            </link>
+            <pubDate>Sun, 23 Sep 2018 11:31:08 +0200</pubDate>
+            <description>
+                Fredagsinspelning! Vi skärskådar söderkrogen Sarahs kundvårdsambitioner på Tripadvisor. Vem bemöter man,
+                när, hur och varför? Dessutom: Ett kort post mortem om hur det går att popquizza utan Jocke.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/41.mp3" length="42610389" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_41
+            </guid>
+            <itunes:duration>59:55</itunes:duration>
+            <itunes:summary>
+                Fredagsinspelning! Vi skärskådar söderkrogen Sarahs kundvårdsambitioner på Tripadvisor. Vem bemöter man,
+                när, hur och varför? Dessutom: Ett kort post mortem om hur det går att popquizza utan Jocke.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Sarahs, Tripadvisor, Prövotid, Svärdmannen, Söders Källa, Popquiz, 
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
