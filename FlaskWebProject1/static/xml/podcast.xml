@@ -1060,7 +1060,34 @@
             </itunes:summary>
             <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
             <itunes:keywords>
-                Sarahs, Tripadvisor, Prövotid, Svärdmannen, Söders Källa, Popquiz, 
+                Sarahs, Tripadvisor, Prövotid, Svärdmannen, Söders Källa, Popquiz
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <title>42. Slaktar-Bogdans hunds odefinierbara ras</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/42.mp3
+            </link>
+            <pubDate>Sun, 7 Oct 2018 15:22:59 +0200</pubDate>
+            <description>
+                Vi kan inte låta bli att göra ett litet post mortem över Bishops Arms, vars Gävlefilial klappade igen.
+                Lika oundvikligt var att prata om Terrassen-Thommys övertagande av klassiska CC-Puben.
+                Men mest utrymme av alla hak fick en fiktiv taverna i ett klyschigt Östeuropa, där Bogdan och hans hund huserar.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/42.mp3" length="37985395" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_42
+            </guid>
+            <itunes:duration>53:09</itunes:duration>
+            <itunes:summary>
+                Vi kan inte låta bli att göra ett litet post mortem över Bishops Arms, vars Gävlefilial klappade igen.
+                Lika oundvikligt var att prata om Terrassen-Thommys övertagande av klassiska CC-Puben.
+                Men mest utrymme av alla hak fick en fiktiv taverna i ett klyschigt Östeuropa, där Bogdan och hans hund huserar.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Bishops Arms, Gävle, CC-Puben, Terrassen, Illbatting, Taverna, Bratislava
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
