@@ -1091,5 +1091,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>43. Lagombonanza</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/43.mp3
+            </link>
+            <pubDate>Sun, 21 Oct 2018 10:54:54 +0200</pubDate>
+            <description>
+                Tävling! Vi beskriver i pedagogiska ordalag allt om tävlingen om biljetter till fulölsfestivalen.
+                Vi har dessutom dinerat på så vitt skilda platser som Rack n Roll, Matildas och Blackstone Steakhouse.
+                Bonusomnämnanden: Portland, Göran Persson.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/43.mp3" length="44549974" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_43
+            </guid>
+            <itunes:duration>62:03</itunes:duration>
+            <itunes:summary>
+                Tävling! Vi beskriver i pedagogiska ordalag allt om tävlingen om biljetter till fulölsfestivalen.
+                Vi har dessutom dinerat på så vitt skilda platser som Rack n Roll, Matildas och Blackstone Steakhouse.
+                Bonusomnämnanden: Portland, Göran Persson.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Blackstone steakhouse, Matildas, Gävle, Vitt vin, Portland, Racken, Pubquiz, Fulölsfestival, Tävling
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
