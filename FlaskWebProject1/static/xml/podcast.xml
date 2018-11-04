@@ -1118,5 +1118,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>44. Grosshandlarn</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/44.mp3
+            </link>
+            <pubDate>Sun, 4 Nov 2018 11:38:03 +0100</pubDate>
+            <description>
+                Vi utannonserar vinnaren i den stora uppmärksamhetssökandetävlingen! Vem har vunnit biljetter till fulölsfestivalen?
+                Dessutom avhandlar vi Jockes och Christofers respektive besök i kunglig hufvudstad.
+                Vad gör egentligen Bon Iver i pausen? Och var hittar man ett par snygga byxor med kort varsel i Stockholm city?
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/44.mp3" length="27879788" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_44
+            </guid>
+            <itunes:duration>40:01</itunes:duration>
+            <itunes:summary>
+                Vi utannonserar vinnaren i den stora uppmärksamhetssökandetävlingen! Vem har vunnit biljetter till fulölsfestivalen?
+                Dessutom avhandlar vi Jockes och Christofers respektive besök i kunglig hufvudstad.
+                Vad gör egentligen Bon Iver i pausen? Och var hittar man ett par snygga byxor med kort varsel i Stockholm city?
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Grosshandlarn, Bon Iver, Justin Vernon, Neko Case, Globen, Sittkissa, Tävling, Fulöl, Fulölsfestival
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
