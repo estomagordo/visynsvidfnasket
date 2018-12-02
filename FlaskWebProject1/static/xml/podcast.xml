@@ -1168,5 +1168,30 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>46. Chewbacca</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/46.mp3
+            </link>
+            <pubDate>Sun, 2 Dec 2018 11:57:43 +0100</pubDate>
+            <description>
+                Vad är egentligen grejen med loafers? Jocke förklarar. Christofer förolämpar utsatta personer.
+                Och så bjuds på ett stycke dadaistisk konstmusik.
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/46.mp3" length="27409686" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_46
+            </guid>
+            <itunes:duration>38:15</itunes:duration>
+            <itunes:summary>
+                Vad är egentligen grejen med loafers? Jocke förklarar. Christofer förolämpar utsatta personer.
+                Och så bjuds på ett stycke dadaistisk konstmusik.
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Loafers, bilskor, David Lega, Döva personer, Chewbacca, Barberare
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
