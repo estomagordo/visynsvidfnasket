@@ -1193,5 +1193,32 @@
             </itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
         </item>
+        <item>
+            <title>47. Önskar det var social accepterat att sparka en Yorkshireterrier</title>
+            <link>
+                https://fnaskblobba.blob.core.windows.net/avsnitt/47.mp3
+            </link>
+            <pubDate>Sun, 16 Dec 2018 18:21:09 +0100</pubDate>
+            <description>
+                Christofer har ätit burgare och risotto på en hel sjuk massa för honom nya restauranger.
+                Jocke är verkligen inte sämre. Eller vad sägs om hundmässa i Stockholm?
+                Vad är ens en hundmässa? frågar ni er? Lyssna och lär!
+            </description>
+            <enclosure url="https://fnaskblobba.blob.core.windows.net/avsnitt/47.mp3" length="46904607" type="audio/mpeg"/>
+            <guid>
+                Avsnitt_47
+            </guid>
+            <itunes:duration>64:19</itunes:duration>
+            <itunes:summary>
+                Christofer har ätit burgare och risotto på en hel sjuk massa för honom nya restauranger.
+                Jocke är verkligen inte sämre. Eller vad sägs om hundmässa i Stockholm?
+                Vad är ens en hundmässa? frågar ni er? Lyssna och lär!
+            </itunes:summary>
+            <itunes:image href="https://fnaskblobba.blob.core.windows.net/misc/title.jpg"/>
+            <itunes:keywords>
+                Hundmässa, terrier, Lilla Tjuren, Trivs, Port Brewing, Bastard Burgers, Ll'Amice, Svenska mässan
+            </itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
     </channel>
 </rss>
